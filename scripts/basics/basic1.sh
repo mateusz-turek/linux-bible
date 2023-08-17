@@ -25,3 +25,8 @@ type date
 #updatedb - updates db for locate command
 locate chage # searches for command and prints package 
 history # shows history commands which were executed by current terminal
+#echo $OS <tab> -> echo $OSTYPE
+#echo $P <tab><tab> -> prompts
+#!{number} -> executes command {number}
+#!! prevoius command
+#!?{searchQuery}? -> executes last command wich has searchQuery
